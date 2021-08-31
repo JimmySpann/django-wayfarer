@@ -1,1 +1,1 @@
-web: gunicorn django-wayfarer.wsgi
+web: gunicorn project_wayfarer.wsgi
